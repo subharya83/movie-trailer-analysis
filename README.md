@@ -1,5 +1,6 @@
-# movie-trailer-analysis
+# Dataset Creation 
 
+## Videos
 1. Downloading videos IDs from YouTube for a given channel id:
 ```
 youtube-dl -i --get-id https://www.youtube.com/user/MovieclipsTrailers | tee output.txt
@@ -16,3 +17,4 @@ youtube-dl -i --output "YTID_%(id)s.%(ext)s" -a output.txt -f 'bestvideo[ext=mp4
 ```
 for i in `ls *.webm`; do x=`echo $i|sed 's/\.webm/\.mp4/g'`; ffmpeg -y -i $i -crf 5 -strict -2 $x; done
 ```
+## Statistics
