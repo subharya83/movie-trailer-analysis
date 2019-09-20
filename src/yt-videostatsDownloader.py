@@ -97,6 +97,7 @@ def get_video_info(youtube_ids, output_dir):
             print('INF: Written contents for YouTube video [%s] in [%s]' % (youtube_id, desc_file_path))
     fp.close()
 
+
 def get_movie_info(youtube_id):
     print('INF: Getting information for movie corresponding to YouTube video [%s]' % youtube_id)
     # Invoke end-point service call
@@ -108,7 +109,6 @@ def get_movie_info(youtube_id):
     for result in response.json().get('items', []):
         ttl = result['snippet']['title']
         
-
 
 def run():
     p = argparse.ArgumentParser()
