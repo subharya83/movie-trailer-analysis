@@ -242,9 +242,9 @@ vkDYtTAGgIw	1549506	30204	599	1549	1920	1080	2944	2018	Deadpool 2	Deadpool 2 Tea
 aIcoU2KAw8s	163608	1165	245	92	1920	1080	2538	None	Life of the Party	Life of the Party Trailer #1
 icbPWZp88P0	578582	8922	1055	1224	1920	1080	2119	None	Solo: A Star Wars Story	Solo: A Star Wars Story Teaser Trailer #1
 aym8xKsHdh8	291203	4131	340	442	1920	1080	3616	None	Skyscraper	Skyscraper Trailer #1
-p1WRoxsrBLY	247460	4446	112	287	1280	720	2156	None	Westworld Season 2 Super Bowl TV	Westworld Season 2 Super Bowl TV Trailer
-_pJHWTEPavQ	702749	15415	226	1090	1280	720	3498	None	Mission: Impossible - Fallout Super Bowl	Mission: Impossible - Fallout Super Bowl Trailer
-CTifjej44KM	1370544	16415	1129	1078	1920	1080	2285	None	Jurassic World: Fallen Kingdom Super Bowl	Jurassic World: Fallen Kingdom Super Bowl Trailer
+p1WRoxsrBLY	247460	4446	112	287	1280	720	2156	None	Westworld Season 2	Westworld Season 2 Super Bowl TV Trailer
+_pJHWTEPavQ	702749	15415	226	1090	1280	720	3498	None	Mission: Impossible - Fallout	Mission: Impossible - Fallout Super Bowl Trailer
+CTifjej44KM	1370544	16415	1129	1078	1920	1080	2285	None	Jurassic World: Fallen Kingdom	Jurassic World: Fallen Kingdom Super Bowl Trailer
 NpKiUPrNl3Y	1240550	8809	1591	1189	1920	1080	3468	2018	Disobedience	Disobedience Trailer #1 (2018)
 oufMnO2FEOw	302392	4561	161	205	1920	1080	4058	2018	Game Night	Game Night Trailer #1 (2018)
 OUvhwcI5cL8	97673	1065	281	111	1920	1080	1956	2018	The Week Of	The Week Of Teaser Trailer #1 (2018)
@@ -954,7 +954,7 @@ iSGUAlTDyO8	3385896	28274	1038	2356	1920	800	2876	2017	Beauty and the Beast	Beau
 G4VmJcZR0Yg	31985398	171773	21776	28189	1920	1080	3159	2017	Ghost in the Shell	Ghost in the Shell Official Trailer 1 (2017) - Scarlett Johansson Movie
 a-Z1E4XFucE	461794	4403	106	345	1920	1080	2994	2016	Live by Night	Live by Night Official Trailer 2 (2016) - Ben Affleck Movie
 r2wWcDR2Jxk	237116	2610	131	202	1920	1080	3001	2016	Space Jam Ultimate Tune Squad Anniversary	Space Jam Ultimate Tune Squad Anniversary Trailer (2016)
-BpSB7napZQs	363799	3879	180	324	1920	1080	2689	None	01EbdET9fv	01EbdET9fvs
+BpSB7napZQs	363799	3879	180	324	1920	1080	2689	2016	Solace	Solace Official Trailer 1 (2016) - Anthony Hopkins Movie
 -Y74du0Ex_g	726055	5323	255	494	1920	1080	2901	2017	Underworld: Blood Wars	Underworld: Blood Wars Official Trailer - \Blood\" (2017) - Kate Beckinsale Movie"
 NNrK7xVG3PM	8661241	50920	3217	6299	1920	1080	2312	2017	Valerian and the City of a Thousand Planets	Valerian and the City of a Thousand Planets Official Trailer - Teaser (2017) - Movie
 6FRB2K131-E	1184500	12718	322	856	1920	1080	3456	2016	Collateral Beauty	Collateral Beauty Official Trailer 2 (2016) - Will Smith Movie
@@ -3345,7 +3345,7 @@ kNjVuLkd0Go	26743	220	30	36	1920	1080	3342	2013	Sushi Girl	Sushi Girl Official B
 qo7cjPi8Xvw	527010	3063	67	270	1920	1080	1943	2013	The Paperman	The Paperman Official Trailer #1 (2013) - Disney Oscar-Nominated Animated Short HD
 BENkbm28gNQ	215887	610	35	32	1280	720	3074	2013	Renoir	Renoir Official Trailer #1 (2013) - French Painter Pierre-Auguste Renoir Movie HD
 oH0EuSRqcO4	678031	2356	115	76	1920	1080	3612	2012	The Big Wedding	The Big Wedding Official Trailer #1 (2012) - Katherine Heigl, Robin Williams Movie HD
-fVn9zjUqxJA	156020	752	17	143	1920	800	2217	2013	The Lone Ranger - Extended Super Bowl	The Lone Ranger - Extended Super Bowl Trailer (2013) Johnny Depp Movie
+fVn9zjUqxJA	156020	752	17	143	1920	800	2217	2013	The Lone Ranger	The Lone Ranger - Extended Super Bowl Trailer (2013) Johnny Depp Movie
 _7WHSmhx0OQ	240875	928	68	241	1280	720	3972	2013	The Jeffrey Dahmer Files	The Jeffrey Dahmer Files Official Trailer #1 (2013) - Serial Killer Documentary HD
 MEAGYNhAlSQ	2638102	10902	358	942	1280	720	2674	2013	Byzantium	Byzantium International Trailer #1 (2013) - Gemma Arterton Movie HD
 RkX-Ze1qGmw	290033	753	186	211	1280	720	3314	2013	Spring Breakers	Spring Breakers Official Uncensored International Trailer #2 (2013) - James Franco Movie HD
@@ -5162,7 +5162,6 @@ DHu9jGXEbcs	137277	234	9	7	1280	544	3606	2011	Last Night	Last Night (2011) Movie
 dHw8emMnEao	46340	366	53	80	1280	720	3791	2013	Inside Llewyn Davis	Inside Llewyn Davis Official Red Band Trailer #1 (2013) - Coen Brothers Movie HD
 dhzuwvLD58g	285172	1363	81	151	1280	720	2818	2015	Jupiter Ascending	Jupiter Ascending Official International Trailer #1 (2015) - MIla Kunis, Channing Tatum Movie HD
 DI86othXjho	99120	389	16	30	1280	544	2034	2014	Blood Ties	Blood Ties Official US Release Trailer (2014) - Clive Owen, Billy Crudup Movie HD
-DioBO7TgkwY	406644	3258	201	632	1920	1080	2640	None	Paczilla - Pacific Rim vs. Godzilla Mashup - Fan Made	Paczilla - Pacific Rim vs. Godzilla Mashup - Fan Made Trailer HD
 djLBZDaYnc0	26171	49	79	47	1920	1080	2262	2011	Don't Go Into the Woods	Don't Go Into the Woods Official Trailer #1 - Vincent D'Onofrio Horror Movie (2011) HD
 DJusN7qAlu0	2657458	3512	329	730	1920	1080	3011	None	Vehicle 19	Vehicle 19 Official Trailer #1 - Paul Walker Movie HD
 Dkc7htnHrg0	374686	997	52	240	1280	720	2033	2013	Only God Forgives	Only God Forgives Official International Trailer #1 (2013) - Ryan Gosling Movie HD
