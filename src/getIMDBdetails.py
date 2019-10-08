@@ -38,12 +38,30 @@ class IMDBMetaData:
                     print(_year, _title, 'IMDB_INFO_NA')
                 _idx += 1
 
+    def getIMDB_info_title_year(self, _title=None, _year=None):
+        if not _title:
+            return _year, _title, 'IMDB_INFO_NA'
+        if _year:
+            _query = _title + ' (' + str(_year) + ')'
+        else:
+            _query = _title
+        m = self.conn.search_movie(_query)
+        if len(m) > 0:
+            #logging.info(_year, _title, m[0].movieID)
+            return _year, _title, m[0].movieID
+        else:
+            #logging.info(_year, _title, 'IMDB_INFO_NA')
+            return _year, _title, 'IMDB_INFO_NA'
+
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(add_help=False, description='Download Youtube comments')
-    parser.add_argument('--mpath', '-m', type=str, required=True, help='Path to metadata index file')
+    parser = argparse.ArgumentParser(add_help=False, description='Download IMDB info given title and year')
+    #parser.add_argument('--mpath', '-m', type=str, required=True, help='Path to metadata index file')
+    parser.add_argument('--title', '-t', type=str, required=True, help='Movie Title')
+    parser.add_argument('--year', '-y', type=str, required=True, help='Movie Year')
 
     args = parser.parse_args()
 
     db = IMDBMetaData()
-    db.getIMDB_info(args.mpath)
+    #db.getIMDB_info(args.mpath)
+    db.getIMDB_info_title_year(_title=args.title, _year=args.year)
